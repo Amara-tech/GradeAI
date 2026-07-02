@@ -1,0 +1,8 @@
+/uploads/
+  course_421/
+    cos421_notes.pdf
+    database_design_slides.pptx
+  course_431/
+    algorithms_module1.pdf
+  course_411/
+    intro_to_hpc.pdf
